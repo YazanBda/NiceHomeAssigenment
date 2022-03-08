@@ -1,8 +1,8 @@
-# NiceHomeAssigenment.
+# NiceHomeAssignment.
 implementation of a simple challenge given by NICE company as a step in the recruitment process.
 
 ## Requirements
-  in this assigenment I am using Maven, Java project
+  in this assignment I am using Maven, Java project
 
 # Description
     provided three solutions , each with description and time/space Complexity (inside the source code) :
