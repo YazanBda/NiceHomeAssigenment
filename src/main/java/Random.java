@@ -14,6 +14,7 @@ public class Random {
         int tmp = arr.get(i);
         arr.set(i, arr.get(index));
         arr.set(index, tmp);
+        
     }
 
 
